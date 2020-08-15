@@ -1,0 +1,247 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.tieude-k2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 43px;
+}
+
+.khoilogo1 {
+}
+
+.p.noidung {
+    color: white;
+}
+
+h4.tieude4 {
+    color: white;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+body{
+    font-family: 'Muli', sans-serif;
+    --cam: orange;
+    --xam: gray;
+    --den: black;
+}
+header{
+    display: flex;
+    align-items: center;
+    min-height: 500px;
+    background: orange;
+}
+.tieude1{
+    font-size: 6rem;
+    margin-top: 100px;
+}
+.khoi1{
+    text-align: left;
+    color: white;
+}
+
+.cam{
+    color: orange;
+}
+.tieude4{
+    color: black;
+}
+.noidung{
+    color: gray;
+    font-weight: 400;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.social{
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 50%;
+    background-color: rgb(73, 73, 73);
+    color: white;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    cursor: pointer;
+    transition: 0.4s;
+
+}
+.social:hover{
+    background-color: orange;
+}
+.tieude2{
+    margin-bottom: 3rem;
+    margin-left: 83px;
+    font-size: 3.5rem;
+}
+.tieude21{
+    margin-bottom: 3rem;
+    margin-left: 0px;
+    font-size: 3.5rem;
+
+}
+.noidung1{
+    color: orange;
+    text-align: right;
+}
+.khoi3{
+    padding: 80px;
+}
+.k3{
+    margin-left: 80px;
+}
+.noidung11{
+    margin-top: -40px;
+    color: gray;
+}
+.khoi3{
+    padding: 80px;
+}
+.khoi4{
+    padding: 80px;
+}
+
+.mota{
+    color: gray;
+}
+.khoinho{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.mota{
+    text-align: left;
+}
+
+.nd-n1 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.nd-n2 {
+    font-weight: 700;
+}
+
+.mess {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.emai {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.name {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+button.nutsend {
+    background: rgb(184, 119, 0);
+    color: white;
+    padding: 3px 15px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 14px;
+}
+
+input.nut.nutto {
+    height: 144px;
+}
+
+input.nut {
+    width: 428px;
+    background: #b659021f;
+    border: none;
+}
+footer{
+    width: 100%;
+    height: 40px;
+    background: rgb(185, 136, 0);
+    color: white;
+    text-align: center;
+}
+.khoi2 {
+    /* background: black; */
+    color: white;
+ background-color: orange;
+    padding: 120px;
+    padding: 2;
+    margin-top: 85px;
+}
+
+.khoinho2 {
+    background: #f1f1f13b;
+    padding: 23px;
+    width: 573px;
+    padding-left: 50px;
+}
+
+.khoinho1 {
+    background: #f1f1f130;
+    padding: 25px;
+    width: 794px;
+    height: 261px;
+    color: white;
+    margin-right: 213px;
+}
+
+.khoinho {
+    display: flex;
+    margin: auto;
+    margin-left: 50px;
+   
+}
+
+.mota-k2 {
+    text-align: center;
+    margin-bottom: 69px;
+    width: 908px;
+    margin: auto;
+    margin-bottom: 94px;
+}
+
+.nd-nav:hover {
+    color: white;
+    cursor: pointer;
+}
+
+i.fab.fa-behance-square {
+    margin-right: 10px;
+}
+
+i.fab.fa-youtube {
+    margin-right: 10px;
+}
+
+.khoiicon-nav {
+    justify-content: space-between;
+    /* width: 142px; */
+}
+
+nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: auto;
+    padding: 25px;
+    color: orange;
+    z-index: 1111111;
+    position: fixed;
+    background: black;
+}
+.tieude {
+    display: flex;
+    width: 408px;
+    justify-content: space-between;
+    font-size: 13px;
+    font-weight: 700;
+    color: orange;
+    font-weight: 700;
+}
